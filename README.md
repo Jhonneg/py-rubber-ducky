@@ -1,0 +1,1 @@
+# this is a rubber ducky demo app meant to showcase a simple rag using vector stores and open ai files search
